@@ -1,0 +1,11 @@
+
+{
+    "chart_title": "Student Study Locations",
+    "data_points": [
+        {"label": "Library", "value": 8},
+        {"label": "CULC", "value": 6},
+        {"label": "Dorm", "value": 5},
+        {"label": "Coffee Shop", "value": 4},
+        {"label": "Student Center", "value": 3}
+    ]
+}
